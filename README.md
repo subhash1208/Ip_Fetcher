@@ -7,7 +7,7 @@ The IP Fetcher is an ESP8266-based project that connects to predefined WiFi netw
 Watch the demo video to see the IP Fetcher in action:
 
    ### Local Video
-   [IP Fetcher Demo Video](/demo.mp4)
+   <img src="gifs/p1p1_step.gif" alt="step" width="270">
 
 ## Features
 - **WiFi Auto-Connect:** Scans for and connects to predefined WiFi networks.
