@@ -3,6 +3,12 @@
 ## Overview
 The IP Fetcher is an ESP8266-based project that connects to predefined WiFi networks, retrieves the device's IP address, determines its corresponding floor number, and sends this information to a specified backend server. This system is designed for environments where devices need to connect to multiple known WiFi networks and report their location via their IP address.
 
+## Demo Video
+Watch the demo video to see the IP Fetcher in action:
+
+   ### Local Video
+   [IP Fetcher Demo Video](/demo.mp4)
+
 ## Features
 - **WiFi Auto-Connect:** Scans for and connects to predefined WiFi networks.
 - **IP Address Retrieval:** Fetches the device's local IP address upon successful WiFi connection.
